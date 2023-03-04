@@ -38,7 +38,7 @@ body .images .image {
     overflow: hidden;
     min-width: 60px;
     margin: 10px;
-    background: var(--optionBackground);
+    background-image: var(--optionBackground);
     background-size: auto 100%;
     background-position: center;
     cursor: pointer;
